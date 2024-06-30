@@ -53,8 +53,8 @@ const footer = () => {
                         </div>
                         <div className='flex flex-col gap-1 md:gap-3  lg:relative left-6'  >
                             <div className='md:relative left-8'>
-                            <h1 className='font-bold md:text-3xl pb-4 lg:text-xl relative left-1 '>Contact Us</h1>
-                            <h3 className='text-sm md:text-[1.3rem] lg:text-[16px] pt-3 relative left-1'>jobhunting@gmail.com</h3>
+                            <h1 className='font-bold md:text-3xl pb-4 lg:text-xl relative left-[3px] '>Contact Us</h1>
+                            <h3 className='text-sm md:text-[1.3rem] lg:text-[16px] pt-3 relative left-[4px]'>jobhunting@gmail.com</h3>
                             </div>
                         </div>
                     </div>
